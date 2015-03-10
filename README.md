@@ -1,4 +1,4 @@
 maptastic-data
 ==============
 
-Some data to play with at our first maptimeSTL meetup!
+Sample data to experiment with at maptimeSTL meetups!
