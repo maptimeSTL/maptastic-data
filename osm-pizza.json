@@ -1,0 +1,538 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-03-10T20:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/278375754",
+      "properties": {
+        "@id": "node/278375754",
+        "amenity": "restaurant",
+        "contact:facebook": "http://www.facebook.com/imospizza",
+        "contact:twitter": "http://twitter.com/imospizza",
+        "contact:website": "http://www.imospizza.com/",
+        "cuisine": "pizza",
+        "name": "Imo's Pizza",
+        "wikipedia:en": "http://en.wikipedia.org/wiki/Imo%27s_Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4934261,
+          38.5327934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1050558986",
+      "properties": {
+        "@id": "node/1050558986",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6305821,
+          38.7886265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1087685332",
+      "properties": {
+        "@id": "node/1087685332",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5815262,
+          38.7717645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1747606115",
+      "properties": {
+        "@id": "node/1747606115",
+        "addr:housenumber": "2964",
+        "addr:postcode": "63122",
+        "addr:street": "Dougherty Ferry Road",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "JJ Twig's Pizza & Pub",
+        "website": "jjtwigsstl.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4744243,
+          38.5680936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1996125591",
+      "properties": {
+        "@id": "node/1996125591",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1463125,
+          38.5292025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2269874159",
+      "properties": {
+        "@id": "node/2269874159",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Imo's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3262244,
+          38.5066163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2275868621",
+      "properties": {
+        "@id": "node/2275868621",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3612666,
+          38.5201028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2383263516",
+      "properties": {
+        "@id": "node/2383263516",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.026755,
+          37.786157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2383809298",
+      "properties": {
+        "@id": "node/2383809298",
+        "addr:city": "Carterville",
+        "addr:postcode": "62918",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "The Pizza And Pasta Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.077069,
+          37.76219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2418105310",
+      "properties": {
+        "@id": "node/2418105310",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Cecil Whittaker's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4944256,
+          38.5337216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2468858686",
+      "properties": {
+        "@id": "node/2468858686",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0700726,
+          39.4344556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2469371963",
+      "properties": {
+        "@id": "node/2469371963",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Chuck E Cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3297249,
+          38.5037765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2553848037",
+      "properties": {
+        "@id": "node/2553848037",
+        "addr:city": "St. Louis",
+        "addr:housenumber": "5806",
+        "addr:postcode": "63109",
+        "addr:street": "Hampton Avenue",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Imo's Pizza",
+        "phone": "314-832-9677",
+        "website": "imospizza.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2935995,
+          38.579517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2553871479",
+      "properties": {
+        "@id": "node/2553871479",
+        "addr:city": "St. Louis",
+        "addr:housenumber": "7932",
+        "addr:postcode": "63123",
+        "addr:street": "Mackenzie Road",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Fortel's Pizza Den",
+        "website": "fortelspizzaden.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3200014,
+          38.5660573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2578591944",
+      "properties": {
+        "@id": "node/2578591944",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5191193,
+          38.8258147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2593606508",
+      "properties": {
+        "@id": "node/2593606508",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "email": "randy@pwpizza.com",
+        "name": "PW Pizza",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-23:00; Su 12:00-21:00",
+        "phone": "+1 314-241-7799",
+        "website": "http://pwpizza.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2130223,
+          38.6212317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2623070959",
+      "properties": {
+        "@id": "node/2623070959",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6841435,
+          38.6059375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2694172765",
+      "properties": {
+        "@id": "node/2694172765",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pi Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2607796,
+          38.6485767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2853835604",
+      "properties": {
+        "@id": "node/2853835604",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Quatro's Pizza",
+        "phone": "+1 618 549 5326",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2174646,
+          37.7209665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2893029525",
+      "properties": {
+        "@id": "node/2893029525",
+        "addr:city": "Edwardsville",
+        "addr:housenumber": "921",
+        "addr:postcode": "62025",
+        "addr:street": "South Arbor Vitae",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Peel Pizza",
+        "website": "http://peelpizza.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9556828,
+          38.8014513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2893072603",
+      "properties": {
+        "@id": "node/2893072603",
+        "addr:city": "Edwardsville",
+        "addr:housenumber": "4",
+        "addr:postcode": "62025",
+        "addr:street": "Club Centre Court",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Joe's Pizza and Pasta",
+        "phone": "(618) 655-9400",
+        "website": "http://www.orderjoes.com/menu.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9831041,
+          38.7792796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3180930555",
+      "properties": {
+        "@id": "node/3180930555",
+        "addr:city": "St Louis",
+        "addr:postcode": "63101",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Imo's Pizza",
+        "source": "Local",
+        "website": "http://imospizza.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1911374,
+          38.6255299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3188981537",
+      "properties": {
+        "@id": "node/3188981537",
+        "addr:city": "Clayton",
+        "addr:housenumber": "22",
+        "addr:postcode": "63105",
+        "addr:state": "MO",
+        "addr:street": "South Central Avenue",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pasta Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3381992,
+          38.649618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3189042805",
+      "properties": {
+        "@id": "node/3189042805",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Racanelli's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3025606,
+          38.6556129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191102362",
+      "properties": {
+        "@id": "node/3191102362",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "The Good Pie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3077374,
+          38.6563671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3238918101",
+      "properties": {
+        "@id": "node/3238918101",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Domino's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6236271,
+          38.7935666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3241366595",
+      "properties": {
+        "@id": "node/3241366595",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Imo's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6287568,
+          38.788873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3262222680",
+      "properties": {
+        "@id": "node/3262222680",
+        "addr:city": "St Louis",
+        "addr:housenumber": "610",
+        "addr:postcode": "63101",
+        "addr:state": "mo",
+        "addr:street": "Washington Avenue",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "PI Pitziria",
+        "opening_hours": "11am- midnight sunday 11am-11pm",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.189708,
+          38.630169
+        ]
+      }
+    }
+  ]
+}
